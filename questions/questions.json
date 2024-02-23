@@ -1,0 +1,72 @@
+{
+  "mongol": [
+    {
+      "id": 1,
+      "text": "Быть",
+      "hasOptions": true,
+      "options": [
+        {
+          "id": 1,
+          "text": "чадал",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "text": "байх",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "text": "тэвчээр",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "text": "хүн",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Чтобы быть женой и матерью, необходимо бесконечное терпение, сила и любовь.",
+      "hasOptions": false,
+      "answer": "Эхнэр ба эх хүн байх нь бурханлаг тэвчээр, хүч чадал болон хайрыг шаарддаг."
+    }
+  ],
+  "yakut": [
+    {
+      "id": 1,
+      "text": "быстро",
+      "hasOptions": true,
+      "options": [
+        {
+          "id": 1,
+          "text": "барыларынааҕар",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "text": "түргэнник",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "text": "Кинигэни",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "text": "дөбөҥнүк",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Я бегаю быстрее всех",
+      "hasOptions": false,
+      "answer": "Мин барыларынааҕар түргэнник сүүрэбин"
+    }
+  ]
+}
